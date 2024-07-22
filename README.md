@@ -1,4 +1,26 @@
-## Hi there 👋
+## "Hello world!" Sou a Charlie Küster :)
+Támbem conhecida como Lidyane :/ (?????)
+
+- Atualmente estou matriculado na UNIFESP no curso de Ciência e Tecnologia seguindo para Ciência da Computação
+- Tenho interesse nas áreas de Date Science e Desenvolvimento Web(full stack)
+- Email: kuster@unifesp.br
+<br>
+<div style="display: inline_block">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+</div>
+
+
+
+
+
+
+
+
 
 <!--
 **charliekuster/charliekuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
