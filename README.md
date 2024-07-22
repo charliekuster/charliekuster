@@ -1,5 +1,5 @@
 ## "Hello world!" Sou a Charlie Küster :)
-Támbem conhecida como Lidyane :/ (?????)
+Também conhecida como Lidyane :/ (?????)
 
 - Atualmente estou matriculada na UNIFESP no curso de Ciência e Tecnologia seguindo para Ciência da Computação
 - Tenho interesse nas áreas de Date Science e Desenvolvimento Web(full stack)
