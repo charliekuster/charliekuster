@@ -2,7 +2,7 @@
 Também conhecida como Lidyane :/ (?????)
 
 - Atualmente estou matriculada na UNIFESP no curso de Ciência e Tecnologia seguindo para Ciência da Computação
-- Tenho interesse nas áreas de Date Science e Desenvolvimento Web(full stack)
+- Tenho interesse na área de Desenvolvimento Web com foco em front-and
 - Email: kuster@unifesp.br
 <br>
 <div style="display: inline_block">
